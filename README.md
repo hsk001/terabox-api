@@ -239,5 +239,5 @@ in your jurisdiction. Licensed as-is with no warranty — see
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## License
-
+Cloudflare deployment setup
 [MIT](LICENSE)
